@@ -1,0 +1,6 @@
+= README
+
+== Instructions
+  * Clone repository
+  * Run bundle
+  * Run rspec
